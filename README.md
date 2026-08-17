@@ -20,9 +20,9 @@
 
 ---
 
-# 👋 Olá, eu sou Estêvão
+# 👋 Olá, chamo-me Estevão Simão
 
-🎓 **Computer Engineering Student**
+🎓 **Computer Science Student**
 💻 **Full-Stack Developer**
 🎨 **3D & Motion Designer**
 🚀 **Building, learning and improving every day.**
@@ -85,21 +85,11 @@ Atualmente estou focado em construir uma base sólida em **Full-Stack Developmen
 <div align="center">
 
 <a href="https://github.com/estevaosimao">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true" />
+<img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/estevaosimao">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/estevaosimao">
-<img src="https://streak-stats.demolab.com?user=estevaosimao&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </a>
 
 </div>
@@ -151,11 +141,11 @@ Animated content, corporate visuals and digital experiences.
 <div align="center">
 
 <a href="https://github.com/estevaosimao">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=REPOSITORY-1&theme=transparent&hide_border=true&title_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=barbearia-kamphumo&theme=transparent&hide_border=true&title_color=00F0FF" />
 </a>
 
 <a href="https://github.com/estevaosimao">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=REPOSITORY-2&theme=transparent&hide_border=true&title_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=estudio-de-fotografia1&theme=transparent&hide_border=true&title_color=00F0FF" />
 </a>
 
 </div>
