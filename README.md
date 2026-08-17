@@ -150,7 +150,7 @@ Animated content, corporate visuals and digital experiences.
 
 </div>
 
-> Replace `REPOSITORY-1` and `REPOSITORY-2` with your actual best projects.
+
 
 ---
 
