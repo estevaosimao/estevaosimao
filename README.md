@@ -1,14 +1,7 @@
 <div align="center">
 
-  <!-- Banner Animado de Topo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Estêvão%20Simão&fontSize=42&animation=twinkling&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%203D%20Designer&descSize=16&descAlignY=68" width="100%" />
-
-  <br />
-
-  <!-- Texto com Animação de Digitação -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Fundador+da+ESBM+Group;Full-Stack+%26+3D+Visuals;Transformando+ideias+em+experiências+digitais" alt="Typing SVG" />
-  </a>
+  <!-- Banner Limpo em Tons de Azul -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C75,100:00F0FF&height=200&section=header&text=Estêvão%20Simão&fontSize=42&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%203D%20Designer&descSize=16&descAlignY=68" width="100%" />
 
   <br /><br />
 
@@ -65,12 +58,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&theme=tokyonight&hide=html,css" width="45%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&theme=tokyonight&hide=html,css" width="45%" alt="Top Languages" />
 </div>
 
 ---
