@@ -1,13 +1,18 @@
 <div align="center">
 
-  <h1>👋 Olá, eu sou o Estêvão Simão</h1>
-  <p><strong>Computer Engineering Student | Web Developer | 3D & Motion Designer</strong></p>
+  <!-- Banner Animado de Topo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Estêvão%20Simão&fontSize=42&animation=twinkling&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%203D%20Designer&descSize=16&descAlignY=68" width="100%" />
 
-  <p>
-    Fundador da <strong>ESBM Group</strong> — transformo ideias em experiências digitais através de desenvolvimento web, branding e arte 3D.
-  </p>
+  <br />
 
-  <!-- Badges de Status / Tecnologias -->
+  <!-- Texto com Animação de Digitação -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Fundador+da+ESBM+Group;Full-Stack+%26+3D+Visuals;Transformando+ideias+em+experiências+digitais" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Badges de Status -->
   <p>
     <img src="https://img.shields.io/badge/Location-Maputo%2C%20Mozambique-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
     <img src="https://img.shields.io/badge/Agency-ESBM%20Group-0B3C75?style=for-the-badge" alt="Agency" />
@@ -60,17 +65,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&theme=tokyonight&hide=html,css"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&theme=tokyonight&hide=html,css" width="45%" />
+  </a>
 </div>
 
 ---
 
 ### 📬 Vamos Conectar & Trabalhar Juntos?
 
-- 🌐 **Portfólio & Website:** [esbmgroup.com](https://esbmgroup.co.mz/) 
+- 🌐 **Portfólio & Website:** [esbmgroup.co.mz](https://esbmgroup.co.mz/) 
 - 💼 **LinkedIn:** [linkedin.com/in/estevaosimao](https://www.linkedin.com/in/estev%C3%A3o-sim%C3%A3o-1a6386278/) 
-- ✉️ **Email Comercial:** `geral@esbmgroup.com`
+- ✉️ **Email Comercial:** `geral@esbmgroup.co.mz`
 
 ---
 
