@@ -1,77 +1,228 @@
 <div align="center">
 
-  <!-- Banner Limpo em Tons de Azul -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C75,100:00F0FF&height=200&section=header&text=Estêvão%20Simão&fontSize=42&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%203D%20Designer&descSize=16&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C75,50:146EF5,100:00F0FF&height=220&section=header&text=Est%C3%AAv%C3%A3o%20Sim%C3%A3o&fontSize=46&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%203D%20Designer&descSize=17&descAlignY=68&descAlign=50" width="100%" />
 
-  <br /><br />
+<br>
 
-  <!-- Badges de Status -->
-  <p>
-    <img src="https://img.shields.io/badge/Location-Maputo%2C%20Mozambique-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-    <img src="https://img.shields.io/badge/Agency-ESBM%20Group-0B3C75?style=for-the-badge" alt="Agency" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%203D-1E90FF?style=for-the-badge" alt="Focus" />
-  </p>
+<a href="https://github.com/estevaosimao">
+<img src="https://img.shields.io/github/followers/estevaosimao?label=Followers&style=for-the-badge&logo=github&color=0B3C75" />
+</a>
+
+<a href="https://github.com/estevaosimao">
+<img src="https://img.shields.io/github/stars/estevaosimao?style=for-the-badge&logo=github&color=00F0FF" />
+</a>
+
+<a href="https://esbmgroup.co.mz/">
+<img src="https://img.shields.io/badge/ESBM%20Group-0B3C75?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+# 👋 Olá, eu sou Estêvão
 
-- 🎓 **Educação:** Estudante do 2.º ano de Engenharia Informática e de Computadores (ISUTC).
-- 💼 **Serviços & Agência:** Desenvolvimento Web (React, Next.js, JS), Design de Logótipos, Branding e Motion Design.
-- 🎨 **Paixão 3D:** A aprofundar modelação, UV unwrapping e animação 3D no **Blender**.
-- 🛠️ **Em Aprendizagem Contínua:** Arquitetura Cloud (AWS), Engenharia de Software e Tecnologias Web 3D (Three.js).
+🎓 **Computer Engineering Student**
+💻 **Full-Stack Developer**
+🎨 **3D & Motion Designer**
+🚀 **Building, learning and improving every day.**
 
----
+Sou estudante de **Engenharia Informática e de Computadores**, apaixonado por tecnologia, desenvolvimento de software, design e criação de experiências digitais.
 
-### 🧰 Tech Stack & Ferramentas
-
-#### **Desenvolvimento Web & Cloud**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### **Design & Modelação 3D**
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+Atualmente estou focado em construir uma base sólida em **Full-Stack Development**, enquanto exploro **Cloud, Software Engineering, 3D Web e Computer Graphics**.
 
 ---
 
-### 🌐 Serviços Destaque (ESBM Group)
+## 🧠 Sobre Mim
 
-| Serviço | Descrição |
-| :--- | :--- |
-| 💻 **Web Development** | Criação de sites modernos, otimizados, responsivos e de alta performance. |
-| 🎨 **Branding & Logo** | Identidade visual marcante e estratégica para marcas e empresas. |
-| 🎬 **Motion Design** | Animações corporativas e conteúdo dinâmico para redes e plataformas. |
-| 🧊 **3D Visuals** | Modelação e assets 3D para integração web e conceitos visuais. |
+* 🎓 Estudante do **2.º ano de Engenharia Informática e de Computadores — ISUTC**
+* 💻 Desenvolvimento Web com **JavaScript, React, Next.js e Node.js**
+* 🎨 Experiência em **Branding, UI Design, Motion Design e Design Digital**
+* 🧊 Exploração de **Blender, 3D Modeling e Web 3D**
+* ☁️ Atualmente estudando **AWS & Cloud Architecture**
+* 🧠 Interessado em **Software Engineering, Cybersecurity e Systems**
+* 🚀 Construindo projetos para transformar conhecimento em experiência prática
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ Tech Stack
+
+### 💻 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,php,git,github" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,mongodb,mysql,firebase" />
+</p>
+
+### 🎨 Design & 3D
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,aftereffects" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+| Area                    | Focus                                       |
+| ----------------------- | ------------------------------------------- |
+| 💻 Full-Stack           | Modern web applications & SaaS              |
+| ☁️ Cloud                | AWS, deployment & infrastructure            |
+| 🧠 Software Engineering | Architecture, APIs & scalable systems       |
+| 🔐 Cybersecurity        | Security fundamentals & practical labs      |
+| 🧊 3D Web               | Three.js, Blender & interactive experiences |
+| 🎨 Design               | Branding, UI/UX & Motion Design             |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&theme=tokyonight&hide=html,css" width="45%" alt="Top Languages" />
+
+<a href="https://github.com/estevaosimao">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=estevaosimao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true" />
+</a>
+
+<a href="https://github.com/estevaosimao">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaosimao&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/estevaosimao">
+<img src="https://streak-stats.demolab.com?user=estevaosimao&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+</a>
+
 </div>
 
 ---
 
-### 📬 Vamos Conectar & Trabalhar Juntos?
+## 🏆 GitHub Trophies
 
-- 🌐 **Portfólio & Website:** [esbmgroup.co.mz](https://esbmgroup.co.mz/) 
-- 💼 **LinkedIn:** [linkedin.com/in/estevaosimao](https://www.linkedin.com/in/estev%C3%A3o-sim%C3%A3o-1a6386278/) 
-- ✉️ **Email Comercial:** `geral@esbmgroup.co.mz`
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=estevaosimao&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=estevaosimao&bg_color=0D1117&color=00F0FF&line=146EF5&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 💼 ESBM Group
+
+Through **ESBM Group**, I work across technology and digital creativity.
+
+### Services
+
+💻 **Web Development**
+Modern, responsive and performance-focused websites and applications.
+
+🎨 **Branding & Identity**
+Logo design, visual identity and brand systems.
+
+🎬 **Motion Design**
+Animated content, corporate visuals and digital experiences.
+
+🧊 **3D Visuals**
+3D modeling, visualization and assets for digital experiences.
+
+---
+
+## 🌐 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/estevaosimao">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=REPOSITORY-1&theme=transparent&hide_border=true&title_color=00F0FF" />
+</a>
+
+<a href="https://github.com/estevaosimao">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estevaosimao&repo=REPOSITORY-2&theme=transparent&hide_border=true&title_color=00F0FF" />
+</a>
+
+</div>
+
+> Replace `REPOSITORY-1` and `REPOSITORY-2` with your actual best projects.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Frontend
+████████████████░░░░  React / Next.js
+
+Backend
+███████████░░░░░░░░░  Node.js / APIs
+
+Cloud
+███████░░░░░░░░░░░░░  AWS
+
+3D Web
+████████░░░░░░░░░░░░  Three.js
+
+Cybersecurity
+██████░░░░░░░░░░░░░░  Security Fundamentals
+```
+
+---
+
+## 🎯 2026 Focus
+
+```text
+01  Build stronger Full-Stack foundations
+02  Develop real-world projects
+03  Learn Cloud Architecture
+04  Improve Software Engineering practices
+05  Explore Cybersecurity
+06  Build interactive 3D experiences
+07  Turn projects into real products
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://esbmgroup.co.mz/">
+<img src="https://img.shields.io/badge/🌐%20Website-ESBM%20Group-0B3C75?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/estev%C3%A3o-sim%C3%A3o-1a6386278/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:geral@esbmgroup.co.mz">
+<img src="https://img.shields.io/badge/Email-Contact-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Criado com foco em design e performance por <strong>Estêvão Simão</strong></sub>
+
+### Building. Learning. Improving. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:146EF5,100:0B3C75&height=120&section=footer" width="100%" />
+
 </div>
